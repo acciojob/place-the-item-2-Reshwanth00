@@ -1,2 +1,18 @@
-
-/* Your CSS Code here. */
+.total{
+	display:flex;
+	justify-content:center;
+	font-size:50px
+}
+.three{
+	background:green;
+	width:100px;
+	height:100px;
+}
+.two{
+	background:blue;
+	width:100px;
+}
+.one{
+	background:red;
+	width:100px;
+}
