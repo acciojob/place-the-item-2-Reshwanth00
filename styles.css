@@ -1,18 +1,11 @@
-.total{
+.holder{
 	display:flex;
 	justify-content:center;
+	flex-wrap:wrap;
 	font-size:50px
+	
 }
-.three{
-	background:green;
+.holder > div{
 	width:100px;
 	height:100px;
-}
-.two{
-	background:blue;
-	width:100px;
-}
-.one{
-	background:red;
-	width:100px;
 }
